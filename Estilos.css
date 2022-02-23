@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: #6F4E37;
+}
+#tipo{
+    background-color:white;
+    text-align: center;
+    border: solid;
+    width: 10%;
+    margin-left: 1%;
+}
+
+table th{
+    border: 1px solid black;
+
+}
+#ventas{
+    border: 1px solid black;
+
+}
+#btnL{
+    background-color:#E1C699;
+    color: black;
+    border-style: solid;
+    border-radius: 5px;
+}
